@@ -1,4 +1,4 @@
-# ![Adidas_logo](./images/Adidas_logo.png) Adidas Sales Analysis Dashboard 📊
+# 📊 Adidas Sales Analysis Dashboard 
 
 This project is a **Power BI Dashboard** created to provide a comprehensive analysis of Adidas sales data across various metrics, regions, and product categories. The dashboard delivers key insights through visually appealing and interactive elements, making it easy for stakeholders to make data-driven decisions.
 
